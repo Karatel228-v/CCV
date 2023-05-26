@@ -52,6 +52,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karatel228-v&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   ---
+  https://Karatel228-v.github.io/CCV/
 
 ### :writing_hand: Blog Posts :
   <!-- BLOG-POST-LIST:START -->
