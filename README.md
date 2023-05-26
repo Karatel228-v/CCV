@@ -57,3 +57,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+https://Karatel228-v.github.io/cv/cv
