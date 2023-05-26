@@ -1,1 +1,1 @@
-https://Karatel228-v.github.io/cv/cv
+https://Karatel228-v.github.io/CCV/cv
